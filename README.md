@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0040-combination-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
