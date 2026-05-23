@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya28052006/DSA-Everyday/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya28052006/DSA-Everyday/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya28052006/DSA-Everyday/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
