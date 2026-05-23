@@ -1,30 +1,38 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int l = 0, r = 0, mL = 0;
-        HashMap<Integer, Integer> map = new HashMap<>();
+         // Variables to track max window size
+        int maxlen = 0;
+        
+        // Track last and second last fruit types
+        int lastFruit = -1, secondLastFruit = -1;
+        
+        // Count of current window and streak of last fruit
+        int currCount = 0, lastFruitStreak = 0;
 
-        while (r < fruits.length) {
-
-            map.put(fruits[r], map.getOrDefault(fruits[r], 0) + 1);
-
-            if (map.size() > 2) {
-                map.put(fruits[l], map.get(fruits[l]) - 1);
-
-                if (map.get(fruits[l]) == 0) {
-                    map.remove(fruits[l]);
-                }
-
-                l++;
+        // Traverse through each fruit
+        for (int fruit : fruits) {
+            
+            // If fruit matches last two, expand window
+            if (fruit == lastFruit || fruit == secondLastFruit) {
+                currCount++;
+            } else {
+                // Reset window size to streak + 1
+                currCount = lastFruitStreak + 1;
             }
 
-            if (map.size() <= 2) {
-                int len = r - l + 1;
-                mL = Math.max(mL, len);
+            // Update lastFruit streak and fruit types
+            if (fruit == lastFruit) {
+                lastFruitStreak++;
+            } else {
+                lastFruitStreak = 1;
+                secondLastFruit = lastFruit;
+                lastFruit = fruit;
             }
 
-            r++;
+            // Update max window size
+            maxlen = Math.max(maxlen, currCount);
         }
-        System.gc();
-        return mL;
+
+        return maxlen;
     }
 }
