@@ -7,8 +7,12 @@ class Solution {
             freq[s.charAt(r)-'A']++;
             mf=Math.max(mf,freq[s.charAt(r)-'A']);
 
-            if(((r-l+1)-mf)>k){
+            while(((r-l+1)-mf)>k){
                 freq[s.charAt(l)-'A']--;
+                mf=0;
+                for(int i=0;i<26;i++){
+                    mf=Math.max(mf,freq[i]);
+                }
                 l++;
             }
             if(((r-l+1)-mf)<=k){
