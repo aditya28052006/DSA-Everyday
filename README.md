@@ -92,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
