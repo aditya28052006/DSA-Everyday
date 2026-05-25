@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0485-max-consecutive-ones](https://github.com/aditya28052006/DSA-Everyday/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
