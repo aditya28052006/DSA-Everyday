@@ -10,6 +10,7 @@ class Solution {
             }
             if(sum<min) min=sum;
         }
+        System.gc();
         return min;
     }
 }
