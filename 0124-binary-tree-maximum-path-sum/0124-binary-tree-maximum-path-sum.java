@@ -15,26 +15,19 @@
  */
 class Solution {
     int maxSum = Integer.MIN_VALUE;
-    public int maxPathSum(TreeNode root) {
-        dfs(root);
-        return maxSum;
+    public int maxPathSum(TreeNode root){
+        if(root==null) return 0;
+        int maxi[]=new int[1];
+        maxi[0]=Integer.MIN_VALUE;
+        maxPathDown(root,maxi);
+        return maxi[0];
     }
-
-    // DFS recursive function
-    private int dfs(TreeNode node) {
-        if (node == null) return 0;
-
-        // Calculate left and right subtree max path
-        int left = Math.max(0, dfs(node.left));
-        int right = Math.max(0, dfs(node.right));
-
-        // Update max sum considering current node
-        maxSum = Math.max(
-            maxSum,
-            left + right + node.val
-        );
-
-        // Return one-sided path
-        return Math.max(left, right) + node.val;
+    private int maxPathDown(TreeNode node,int maxi[]){
+        if(node==null) return 0;
+        int l=Math.max(0,maxPathDown(node.left,maxi));
+        int r=Math.max(0,maxPathDown(node.right,maxi));
+        maxi[0]=Math.max(maxi[0],node.val+l+r);
+        return Math.max(l,r)+node.val;
     }
+     
 }
