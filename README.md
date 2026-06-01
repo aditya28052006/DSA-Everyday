@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/aditya28052006/DSA-Everyday/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
