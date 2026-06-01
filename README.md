@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aditya28052006/DSA-Everyday/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
@@ -225,4 +227,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya28052006/DSA-Everyday/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
