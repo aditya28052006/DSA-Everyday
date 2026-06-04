@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
 | [0896-monotonic-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aditya28052006/DSA-Everyday/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
 ## Number Theory
 |  |
 | ------- |
