@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya28052006/DSA-Everyday/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aditya28052006/DSA-Everyday/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/aditya28052006/DSA-Everyday/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya28052006/DSA-Everyday/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/aditya28052006/DSA-Everyday/tree/master/0796-rotate-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aditya28052006/DSA-Everyday/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
 ## Tree
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
