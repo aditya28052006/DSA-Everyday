@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/aditya28052006/DSA-Everyday/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aditya28052006/DSA-Everyday/tree/master/0992-subarrays-with-k-different-integers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 ## Simulation
 |  |
