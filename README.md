@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aditya28052006/DSA-Everyday/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0704-binary-search) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
