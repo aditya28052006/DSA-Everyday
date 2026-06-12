@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aditya28052006/DSA-Everyday/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aditya28052006/DSA-Everyday/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya28052006/DSA-Everyday/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/aditya28052006/DSA-Everyday/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/aditya28052006/DSA-Everyday/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
