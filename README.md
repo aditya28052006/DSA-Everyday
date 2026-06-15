@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aditya28052006/DSA-Everyday/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya28052006/DSA-Everyday/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/aditya28052006/DSA-Everyday/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/aditya28052006/DSA-Everyday/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0100-same-tree) |
@@ -366,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aditya28052006/DSA-Everyday/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
