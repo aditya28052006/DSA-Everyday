@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya28052006/DSA-Everyday/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
