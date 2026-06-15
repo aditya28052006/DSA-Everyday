@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aditya28052006/DSA-Everyday/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
