@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aditya28052006/DSA-Everyday/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya28052006/DSA-Everyday/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aditya28052006/DSA-Everyday/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0073-set-matrix-zeroes) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
 ## Number Theory
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya28052006/DSA-Everyday/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
