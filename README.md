@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya28052006/DSA-Everyday/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
+| [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
