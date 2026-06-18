@@ -15,7 +15,8 @@ class Solution {
         int prev2 = 0;
 
         for (int i = start; i <= end; i++) {
-            int take = nums[i] + prev2;
+            int take = nums[i];
+            if(i>1) take+=prev2;
             int notTake = prev;
 
             int curr = Math.max(take, notTake);
