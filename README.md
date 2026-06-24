@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aditya28052006/DSA-Everyday/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya28052006/DSA-Everyday/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aditya28052006/DSA-Everyday/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
