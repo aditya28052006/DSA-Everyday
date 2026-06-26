@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aditya28052006/DSA-Everyday/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya28052006/DSA-Everyday/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
