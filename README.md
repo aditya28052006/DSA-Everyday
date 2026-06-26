@@ -438,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/aditya28052006/DSA-Everyday/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/aditya28052006/DSA-Everyday/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
