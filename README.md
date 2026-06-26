@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aditya28052006/DSA-Everyday/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/aditya28052006/DSA-Everyday/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aditya28052006/DSA-Everyday/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0217-contains-duplicate](https://github.com/aditya28052006/DSA-Everyday/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya28052006/DSA-Everyday/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya28052006/DSA-Everyday/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/aditya28052006/DSA-Everyday/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya28052006/DSA-Everyday/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
