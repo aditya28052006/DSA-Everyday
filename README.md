@@ -434,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/aditya28052006/DSA-Everyday/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
