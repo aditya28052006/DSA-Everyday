@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya28052006/DSA-Everyday/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
