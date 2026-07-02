@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aditya28052006/DSA-Everyday/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aditya28052006/DSA-Everyday/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aditya28052006/DSA-Everyday/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aditya28052006/DSA-Everyday/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aditya28052006/DSA-Everyday/tree/master/0131-palindrome-partitioning) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aditya28052006/DSA-Everyday/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditya28052006/DSA-Everyday/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aditya28052006/DSA-Everyday/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya28052006/DSA-Everyday/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aditya28052006/DSA-Everyday/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/aditya28052006/DSA-Everyday/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aditya28052006/DSA-Everyday/tree/master/0735-asteroid-collision) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditya28052006/DSA-Everyday/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0287-find-the-duplicate-number) |
