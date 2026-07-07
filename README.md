@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya28052006/DSA-Everyday/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/aditya28052006/DSA-Everyday/tree/master/0905-sort-array-by-parity) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aditya28052006/DSA-Everyday/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
