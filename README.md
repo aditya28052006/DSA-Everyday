@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/aditya28052006/DSA-Everyday/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/aditya28052006/DSA-Everyday/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/1075-project-employees-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/aditya28052006/DSA-Everyday/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/aditya28052006/DSA-Everyday/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1587-bank-account-summary-ii) |
 ## Ordered Set
