@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aditya28052006/DSA-Everyday/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/aditya28052006/DSA-Everyday/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1587-bank-account-summary-ii) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/aditya28052006/DSA-Everyday/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Ordered Set
 |  |
 | ------- |
