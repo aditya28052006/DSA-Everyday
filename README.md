@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aditya28052006/DSA-Everyday/tree/master/0500-keyboard-row) |
+| [0542-01-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya28052006/DSA-Everyday/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/aditya28052006/DSA-Everyday/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0542-01-matrix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditya28052006/DSA-Everyday/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya28052006/DSA-Everyday/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/aditya28052006/DSA-Everyday/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aditya28052006/DSA-Everyday/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aditya28052006/DSA-Everyday/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya28052006/DSA-Everyday/tree/master/0994-rotting-oranges) |
 ## Memoization
