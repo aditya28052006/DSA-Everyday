@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya28052006/DSA-Everyday/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aditya28052006/DSA-Everyday/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya28052006/DSA-Everyday/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya28052006/DSA-Everyday/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya28052006/DSA-Everyday/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/aditya28052006/DSA-Everyday/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/aditya28052006/DSA-Everyday/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
