@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aditya28052006/DSA-Everyday/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya28052006/DSA-Everyday/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aditya28052006/DSA-Everyday/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aditya28052006/DSA-Everyday/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 ## Memoization
 |  |
 | ------- |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya28052006/DSA-Everyday/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aditya28052006/DSA-Everyday/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -582,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aditya28052006/DSA-Everyday/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
