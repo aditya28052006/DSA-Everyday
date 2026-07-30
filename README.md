@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya28052006/DSA-Everyday/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aditya28052006/DSA-Everyday/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aditya28052006/DSA-Everyday/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya28052006/DSA-Everyday/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Memoization
 |  |
 | ------- |
