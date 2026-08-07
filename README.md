@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya28052006/DSA-Everyday/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/aditya28052006/DSA-Everyday/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/aditya28052006/DSA-Everyday/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
