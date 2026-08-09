@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/aditya28052006/DSA-Everyday/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aditya28052006/DSA-Everyday/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aditya28052006/DSA-Everyday/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aditya28052006/DSA-Everyday/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aditya28052006/DSA-Everyday/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya28052006/DSA-Everyday/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya28052006/DSA-Everyday/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aditya28052006/DSA-Everyday/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aditya28052006/DSA-Everyday/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Topological Sort
 |  |
