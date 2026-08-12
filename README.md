@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
+| [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya28052006/DSA-Everyday/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
+| [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya28052006/DSA-Everyday/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/aditya28052006/DSA-Everyday/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya28052006/DSA-Everyday/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
+| [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Memoization
 |  |
