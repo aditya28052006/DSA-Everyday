@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/aditya28052006/DSA-Everyday/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0509-fibonacci-number) |
+| [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya28052006/DSA-Everyday/tree/master/1248-count-number-of-nice-subarrays) |
 | [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -652,4 +653,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aditya28052006/DSA-Everyday/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
