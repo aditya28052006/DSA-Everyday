@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditya28052006/DSA-Everyday/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditya28052006/DSA-Everyday/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/aditya28052006/DSA-Everyday/tree/master/0216-combination-sum-iii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya28052006/DSA-Everyday/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya28052006/DSA-Everyday/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya28052006/DSA-Everyday/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/aditya28052006/DSA-Everyday/tree/master/0282-expression-add-operators) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0258-add-digits) |
 | [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya28052006/DSA-Everyday/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -658,13 +661,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/aditya28052006/DSA-Everyday/tree/master/1175-prime-arrangements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya28052006/DSA-Everyday/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
