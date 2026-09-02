@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aditya28052006/DSA-Everyday/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/aditya28052006/DSA-Everyday/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/aditya28052006/DSA-Everyday/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aditya28052006/DSA-Everyday/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
