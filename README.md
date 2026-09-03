@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/aditya28052006/DSA-Everyday/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aditya28052006/DSA-Everyday/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/2498-frog-jump-ii) |
 | [2614-prime-in-diagonal](https://github.com/aditya28052006/DSA-Everyday/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aditya28052006/DSA-Everyday/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/aditya28052006/DSA-Everyday/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aditya28052006/DSA-Everyday/tree/master/0410-split-array-largest-sum) |
+| [2498-frog-jump-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/2498-frog-jump-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/aditya28052006/DSA-Everyday/tree/master/1898-maximum-number-of-removable-characters) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya28052006/DSA-Everyday/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aditya28052006/DSA-Everyday/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/aditya28052006/DSA-Everyday/tree/master/2498-frog-jump-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya28052006/DSA-Everyday/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya28052006/DSA-Everyday/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
